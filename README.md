@@ -64,9 +64,31 @@ Explique Chain of Thought.
 
 # ⚠️ Dificuldades encontradas
 
-No início utilizei prompts muito genéricos e obtive respostas superficiais.
+Durante os testes foi possível perceber que pequenas alterações na forma de escrever os prompts geram resultados significativamente diferentes.
 
-Após adicionar contexto, persona e objetivo, as respostas ficaram mais completas.
+Primeira tentativa
+
+Pergunta muito ampla:
+
+"Explique Inteligência Artificial."
+
+Resultado:
+
+Resposta superficial e muito genérica.
+
+Segunda tentativa
+
+Foi adicionada uma persona e um objetivo específico:
+
+"Explique Engenharia de Prompt para uma profissional que está migrando para a área de Tecnologia."
+
+Resultado:
+
+A resposta tornou-se muito mais clara, prática e direcionada ao contexto desejado.
+
+Aprendizado
+
+Quanto maior o contexto fornecido ao modelo, melhor tende a ser a qualidade das respostas.
 
 ---
 
@@ -74,7 +96,7 @@ Após adicionar contexto, persona e objetivo, as respostas ficaram mais completa
 
 ## O que é Engenharia de Prompt?
 
-(Resumo)
+É a prática de elaborar instruções claras, objetivas e contextualizadas para obter respostas mais eficientes de modelos de Inteligência Artificial.
 
 ## Principais Técnicas
 
@@ -82,13 +104,15 @@ Após adicionar contexto, persona e objetivo, as respostas ficaram mais completa
 - Few Shot
 - Chain of Thought
 - Role Prompting
+- Context Prompting
 
 ## Boas práticas
 
-- Dar contexto
-- Definir objetivo
-- Ser específico
-- Informar o formato da resposta
+Definir claramente o objetivo.
+Informar o contexto.
+Especificar o formato esperado da resposta.
+Utilizar linguagem objetiva.
+Refinar o prompt sempre que necessário.
 
 ---
 
@@ -96,32 +120,43 @@ Após adicionar contexto, persona e objetivo, as respostas ficaram mais completa
 
 ## Prompt
 
-Instrução enviada para a IA.
+Instrução enviada ao modelo de Inteligência Artificial.
 
 ## Token
 
-Unidade utilizada para processar texto.
+Unidade utilizada pelos modelos para processar textos.
 
 ## Contexto
 
-Informações fornecidas para melhorar a resposta.
+Informações adicionais fornecidas para orientar a geração da resposta.
 
 ## IA Generativa
 
-Modelos capazes de criar texto, imagens e código.
+Tecnologia capaz de criar conteúdos como textos, imagens, códigos e áudios.
+
+## Chain of Thought
+
+Técnica que incentiva o modelo a apresentar seu raciocínio de forma estruturada antes da resposta final.
 
 ---
 
 # 🚀 Prompts reutilizáveis
 
-- Explique como se eu fosse iniciante.
-- Crie um resumo em tópicos.
-- Monte um mapa mental.
-- Crie flashcards.
-- Gere perguntas para revisão.
+Explique este conteúdo como se eu fosse iniciante.
+Faça um resumo em tópicos.
+Crie um mapa mental sobre este assunto.
+Gere perguntas para revisão.
+Transforme este conteúdo em flashcards.
+Compare este conceito com outro semelhante.
+Liste vantagens e desvantagens.
+Apresente exemplos práticos.
+Explique utilizando linguagem simples.
+Crie um plano de estudos baseado neste conteúdo.
 
 ---
 
 # ✅ Conclusão
 
-O NotebookLM facilitou a organização do conhecimento e mostrou como a IA pode apoiar o aprendizado ativo por meio da análise de diferentes fontes.
+O NotebookLM demonstrou ser uma excelente ferramenta para organização do conhecimento, permitindo reunir diferentes fontes, sintetizar informações e apoiar a construção de materiais de estudo personalizados.
+
+A experiência evidenciou que a qualidade das respostas depende diretamente da qualidade dos prompts elaborados, reforçando a importância da Engenharia de Prompts como competência essencial para profissionais que utilizam Inteligência Artificial no dia a dia.
