@@ -19,6 +19,10 @@ O tema escolhido foi Engenharia de Prompts para Inteligência Artificial Generat
 
 Além da pesquisa, o projeto demonstra o processo de curadoria de conteúdo, experimentação de prompts, análise crítica dos resultados e organização do conhecimento.
 
+## 🖼️ Visual do Projeto
+
+![NotebookLM](NotebookLLM.png)
+
 ---
 
 # 📖 Fontes utilizadas
