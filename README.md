@@ -2,7 +2,11 @@
 
 ## 🎯 Objetivo
 
-Neste projeto utilizei o NotebookLM como ferramenta de estudo para aprender Engenharia de Prompt aplicada à Inteligência Artificial Generativa.
+Este projeto foi desenvolvido como parte do desafio da DIO com o objetivo de explorar o uso do NotebookLM como ferramenta de aprendizagem ativa.
+
+O tema escolhido foi Engenharia de Prompts para Inteligência Artificial Generativa, buscando compreender como a elaboração de instruções claras e estratégicas influencia a qualidade das respostas produzidas por modelos de IA.
+
+Além da pesquisa, o projeto demonstra o processo de curadoria de conteúdo, experimentação de prompts, análise crítica dos resultados e organização do conhecimento.
 
 ---
 
@@ -10,23 +14,23 @@ Neste projeto utilizei o NotebookLM como ferramenta de estudo para aprender Enge
 
 ## Fonte 1
 
-(Link)
+https://platform.openai.com/docs
 
 ## Fonte 2
 
-(Link)
+https://ai.google.dev
 
 ## Fonte 3
 
-(Link)
+https://www.anthropic.com/engineering
 
 ## Fonte 4
 
-(Link)
+https://learn.microsoft.com/training/
 
 ## Fonte 5
 
-(Link)
+https://www.dio.me
 
 ---
 
@@ -38,7 +42,7 @@ Explique Engenharia de Prompt para iniciantes.
 
 ### Resultado
 
-(Escreva um pequeno resumo da resposta.)
+Foi apresentado o conceito de Engenharia de Prompt como a prática de criar instruções claras e detalhadas para orientar modelos de Inteligência Artificial na geração de respostas mais precisas, relevantes e consistentes.
 
 ---
 
@@ -48,25 +52,33 @@ Quais são as melhores práticas para criar prompts?
 
 ### Resultado
 
-(Resumo)
+Foram identificadas técnicas como:
+
+- Zero-Shot Prompting
+- Few-Shot Prompting
+- Chain of Thought
+- Role Prompting
+- Context Prompting
+
+Essas técnicas permitem aumentar significativamente a qualidade das respostas produzidas pela IA.
 
 ---
 
 ## Prompt 3
 
-Explique Chain of Thought.
+Explique o que é a técnica Chain of Thought e como ela pode melhorar as respostas de uma Inteligência Artificial.
 
 ### Resultado
 
-(Resumo)
+O NotebookLM explicou que Chain of Thought (CoT) é uma técnica de engenharia de prompts que incentiva o modelo de IA a desenvolver o raciocínio de forma estruturada antes de apresentar a resposta final. Essa abordagem é especialmente útil para tarefas que exigem análise, resolução de problemas e tomada de decisões, pois ajuda a organizar as informações em etapas lógicas, tornando as respostas mais completas, coerentes e precisas.
 
 ---
 
 # ⚠️ Dificuldades encontradas
 
-Durante os testes foi possível perceber que pequenas alterações na forma de escrever os prompts geram resultados significativamente diferentes.
+Durante os testes foi possível perceber pequenas alterações na forma de escrever os prompts geram resultados significativamente diferentes.
 
-Primeira tentativa
+1º
 
 Pergunta muito ampla:
 
@@ -76,7 +88,7 @@ Resultado:
 
 Resposta superficial e muito genérica.
 
-Segunda tentativa
+2º
 
 Foi adicionada uma persona e um objetivo específico:
 
@@ -108,11 +120,11 @@ Quanto maior o contexto fornecido ao modelo, melhor tende a ser a qualidade das 
 
 ## Boas práticas
 
-Definir claramente o objetivo.
-Informar o contexto.
-Especificar o formato esperado da resposta.
-Utilizar linguagem objetiva.
-Refinar o prompt sempre que necessário.
+- Definir claramente o objetivo.
+- Informar o contexto.
+- Especificar o formato esperado da resposta.
+- Utilizar linguagem objetiva.
+- Refinar o prompt sempre que necessário.
 
 ---
 
@@ -142,16 +154,16 @@ Técnica que incentiva o modelo a apresentar seu raciocínio de forma estruturad
 
 # 🚀 Prompts reutilizáveis
 
-Explique este conteúdo como se eu fosse iniciante.
-Faça um resumo em tópicos.
-Crie um mapa mental sobre este assunto.
-Gere perguntas para revisão.
-Transforme este conteúdo em flashcards.
-Compare este conceito com outro semelhante.
-Liste vantagens e desvantagens.
-Apresente exemplos práticos.
-Explique utilizando linguagem simples.
-Crie um plano de estudos baseado neste conteúdo.
+- Explique este conteúdo como se eu fosse iniciante.
+- Faça um resumo em tópicos.
+- Crie um mapa mental sobre este assunto.
+- Gere perguntas para revisão.
+- Transforme este conteúdo em flashcards.
+- Compare este conceito com outro semelhante.
+- Liste vantagens e desvantagens.
+- Apresente exemplos práticos.
+- Explique utilizando linguagem simples.
+- Crie um plano de estudos baseado neste conteúdo.
 
 ---
 
