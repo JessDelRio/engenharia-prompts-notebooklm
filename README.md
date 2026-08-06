@@ -1,5 +1,16 @@
 # 📚 Caderno Temático - NotebookLM
 
+## 📑 Índice
+
+- Objetivo
+- Fontes utilizadas
+- Prompts utilizados
+- Dificuldades encontradas
+- Miniguia de Estudo
+- Glossário
+- Prompts reutilizáveis
+- Conclusão
+
 ## 🎯 Objetivo
 
 Este projeto foi desenvolvido como parte do desafio da DIO com o objetivo de explorar o uso do NotebookLM como ferramenta de aprendizagem ativa.
@@ -12,25 +23,27 @@ Além da pesquisa, o projeto demonstra o processo de curadoria de conteúdo, exp
 
 # 📖 Fontes utilizadas
 
-## Fonte 1
+- **OpenAI Documentation**  
+  https://platform.openai.com/docs
 
-https://platform.openai.com/docs
+- **Google AI for Developers**  
+  https://ai.google.dev
 
-## Fonte 2
+- **Anthropic Engineering**  
+  https://www.anthropic.com/engineering
 
-https://ai.google.dev
+- **Microsoft Learn**  
+  https://learn.microsoft.com/training/
 
-## Fonte 3
+- **DIO**  
+  https://www.dio.me
 
-https://www.anthropic.com/engineering
+  # Tecnologias utilizadas
 
-## Fonte 4
-
-https://learn.microsoft.com/training/
-
-## Fonte 5
-
-https://www.dio.me
+- NotebookLM
+- GitHub
+- Markdown
+- Inteligência Artificial Generativa
 
 ---
 
@@ -76,7 +89,7 @@ O NotebookLM explicou que Chain of Thought (CoT) é uma técnica de engenharia d
 
 # ⚠️ Dificuldades encontradas
 
-Durante os testes foi possível perceber pequenas alterações na forma de escrever os prompts geram resultados significativamente diferentes.
+Durante os testes, foi possível perceber que pequenas alterações na forma de escrever os prompts geram resultados significativamente diferentes.
 
 1º
 
